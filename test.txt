@@ -1,2 +1,2 @@
 This is my first text file.
-Please don't make any changes without authorization.
+Please don't make any changes without authorization. Do you understand?
